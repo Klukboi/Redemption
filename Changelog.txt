@@ -1,0 +1,39 @@
+31.12.2016 00:32 - WarlordToby
++Imperial Guard suit added.
++Imperial Guard helmet added.
++Imperial Guard shoes added.
++Imperial Guard lasrifle (lasgun) added.
++Imperial Guard longlasrifle (longlasgun) added.
+
++Map "asteroidwar" added.
+ +Main asteroid added.
+ +Artifact bunker added.
+ +Renegade ship necessaries added.
+
++Renegade suit added.
++Renegade helmet added.
++Renegade shoes added.
++Renegade lasrifle (lasgun) added.
++Renegade longlasrifle (longlasgun) added.
+
++Lore added. More info on Trello card description.
+
+31.12.2016 18:02 - WarlordToby
+*Imperial Guard armor mob sprites fixed.
+
++Heretic ship hangars added.
++Heretic ship SMES added.
++Heretic ship internals for space walk added.
+
+*Heretic suit mob sprites fixed.
+
+31.12.2016 20:25 - WarlordToby
+*Imperial Guard boots mob sprites fixed.
+*Imperial Guard helmet mob sprites fixed.
+*Imperial lasgun no longer "disappears" upon firing.
+*Imperial longlasgun no longer "disappears" upon firing.
+
+*Renegade boots mob sprites fixed.
+*Renegade helmet mob sprites fixed.
+*Renegade lasgun no longer "disappears" upon firing.
+*Renegade longlasgun no longer "disappears" upon firing.
